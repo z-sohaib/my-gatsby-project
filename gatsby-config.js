@@ -20,6 +20,7 @@ module.exports = {
   siteMetadata: {
     title: 'Zombo',
     description: 'web dev portfolio',
-    copyright: 'This website is copyright 2021 Zombo'
+    copyright: 'This website is copyright 2021 Zombo',
+    contact: 'js_zouambia@esi.dz'
   }
 }
